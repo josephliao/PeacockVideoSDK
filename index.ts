@@ -1,4 +1,4 @@
-const API_URL: string = 'https://pokeapi.co/api/v2';
+// const API_URL: string = 'https://pokeapi.co/api/v2';
 
 export function getVideoById(id: number): Promise<object>{
     return new Promise((resolve, reject) =>{
