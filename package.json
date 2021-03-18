@@ -1,0 +1,26 @@
+{
+  "name": "PeacockVideoSDK",
+  "version": "1.0.0",
+  "description": "Peacock Core Video SDK Coding Challenge",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephliao/PeacockVideoSDK.git"
+  },
+  "keywords": [
+    "Peacock",
+    "Core Video",
+    "sdk",
+    "typescript"
+  ],
+  "author": "Joseph Liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephliao/PeacockVideoSDK/issues"
+  },
+  "homepage": "https://github.com/josephliao/PeacockVideoSDK#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
