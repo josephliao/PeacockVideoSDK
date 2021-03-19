@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "PeacockVideoSDK": "file:.."
+    "peacock_video_sdk": "file:.."
   }
 }

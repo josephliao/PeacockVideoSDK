@@ -1,5 +1,5 @@
 {
-  "name": "PeacockVideoSDK",
+  "name": "peacock_video_sdk",
   "version": "1.0.0",
   "description": "Peacock Core Video SDK Coding Challenge",
   "main": "index.js",
@@ -31,5 +31,8 @@
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1",
     "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
